@@ -12,3 +12,4 @@
 * [Modify existing McStas optical component models to allow "reverse" raytracing from "sample" to "source"](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_reverse_Optics.pdf)
 * [Improving at scale information retrieval relevancy score
 service for distributed search](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_search_scoring.pdf)
+* [Converting instrument OFF geometries to a mesh of triangles for 3D visualization](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_off_geometry_triangulation.pdf)
