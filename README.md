@@ -12,3 +12,4 @@
 * [Modify existing McStas optical component models to allow "reverse" raytracing from "sample" to "source"](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_reverse_Optics.pdf)
 * [Improving at scale information retrieval relevancy score
 service for distributed search](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_search_scoring.pdf)
+* [Improve monitoring dashboard for integration testing between DMSC services](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_dashboard.pdf)
