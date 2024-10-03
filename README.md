@@ -1,6 +1,7 @@
 ## New student projects at [European Spallation Source Data Management and Software Centre](https://europeanspallationsource.se/data-management-software-centre)
 
 * [Converting instrument OFF geometries to a mesh of triangles for 3D visualization](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_off_geometry_triangulation.pdf)
+* [Improve monitoring dashboard for integration testing between DMSC services](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_dashboard.pdf)
 
 ## Active student projects
 
