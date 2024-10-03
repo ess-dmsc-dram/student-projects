@@ -2,7 +2,7 @@
 
 * [Converting instrument OFF geometries to a mesh of triangles for 3D visualization](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_off_geometry_triangulation.pdf)
 
-## Active student projects at [European Spallation Source Data Management and Software Centre](https://europeanspallationsource.se/data-management-software-centre)
+## Active student projects
 
 * [Use MCPL and KDSource utils and ML / AI to generate "analytical" McStas source models from particle clouds](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_KDSource.pdf)
 * [Including Nested Mirror Optics (NMO) in the guide optimizer guide_bot](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_NMO_guide_bot.docx)
