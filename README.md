@@ -1,9 +1,4 @@
-## New student projects at [European Spallation Source Data Management and Software Centre](https://europeanspallationsource.se/data-management-software-centre)
-
-* [Converting instrument OFF geometries to a mesh of triangles for 3D visualization](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_off_geometry_triangulation.pdf)
-* [Improve monitoring dashboard for integration testing between DMSC services](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_dashboard.pdf)
-
-## Active student projects
+## Available student projects at [European Spallation Source Data Management and Software Centre](https://europeanspallationsource.se/data-management-software-centre)
 
 * [Use MCPL and KDSource utils and ML / AI to generate "analytical" McStas source models from particle clouds](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_KDSource.pdf)
 * [Including Nested Mirror Optics (NMO) in the guide optimizer guide_bot](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_NMO_guide_bot.docx)
@@ -16,6 +11,8 @@
 * [Modify existing McStas optical component models to allow "reverse" raytracing from "sample" to "source"](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_reverse_Optics.pdf)
 * [Improving at scale information retrieval relevancy score
 service for distributed search](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_search_scoring.pdf)
+* [Converting instrument OFF geometries to a mesh of triangles for 3D visualization](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_off_geometry_triangulation.pdf)
+* [Improve monitoring dashboard for integration testing between DMSC services](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_dashboard.pdf)
 
 ## Examples of past student projects
 
